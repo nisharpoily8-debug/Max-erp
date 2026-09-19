@@ -1,0 +1,10 @@
+{
+  "name": "Maxerp",
+  "description": "Production-ready Android-first ERP application for small and medium businesses featuring customer and vendor management, sales with same-date wave picking lists and goods delivery notes, purchasing with bill scanner (camera/PDF/JPEG) and auto-updating records, inventory with barcode scanning, double-entry accounting, role-specific dashboards, and immutable audit trails.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
